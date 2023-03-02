@@ -10,14 +10,14 @@
     <version>0.0.1-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
-  <artifactId>doodle-starter-payment-server</artifactId>
+  <artifactId>doodle-starter-payment-client</artifactId>
   <properties>
     <spotless.skip>false</spotless.skip>
   </properties>
   <dependencies>
     <dependency>
       <groupId>org.doodle</groupId>
-      <artifactId>doodle-payment-server-core</artifactId>
+      <artifactId>doodle-payment-client</artifactId>
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>

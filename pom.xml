@@ -14,8 +14,10 @@
   <packaging>pom</packaging>
   <modules>
     <module>doodle-payment-bom</module>
+    <module>doodle-payment-client</module>
     <module>doodle-payment-server</module>
     <module>doodle-payment-server-core</module>
+    <module>doodle-starter-payment-client</module>
     <module>doodle-starter-payment-server</module>
   </modules>
 </project>
